@@ -13,6 +13,9 @@ ul {
   max-width: 550px;
   text-align: left;
 }
+#img-caption {
+  padding: 15px;
+}
 img {
   max-width: 100%;
   height: auto;
